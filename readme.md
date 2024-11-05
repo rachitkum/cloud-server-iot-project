@@ -6,11 +6,7 @@ A cloud storage platform built with Go and React, allowing users to register, lo
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [API Endpoints](#api-endpoints)
-- [Frontend Usage](#frontend-usage)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ## Features
 
